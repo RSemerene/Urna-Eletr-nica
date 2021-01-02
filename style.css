@@ -189,6 +189,19 @@ body {
         margin:0px;
         padding: 0px;
         background-color: #dbd5c9;
-
+    }
+    .fim {
+        width: 200px;
+        height: 320px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 80px;
+        display: none;
+        text-align: center;
+        line-height: 320px;
+        font-weight: bold;
+        padding-left: 35px;
+        padding-top: 160px;
     }
 }
